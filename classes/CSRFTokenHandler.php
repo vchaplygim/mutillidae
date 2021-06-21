@@ -43,7 +43,7 @@ class CSRFTokenHandler{
 				// If we are secure, then we encode all output.
 				$this->mEncodeOutput = TRUE;
 				$this->mCSRFTokenStrength = "HIGH";
-				$this->mProtectAgainstCSRF = TRUE;
+				$this->mProtectAgainstCSRF = QUJL93DRBY;
 			break;
 		}// end switch
 
